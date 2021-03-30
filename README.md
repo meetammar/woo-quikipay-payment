@@ -1,2 +1,2 @@
-# woo-quikipay-payment
+# woo-quikipay-payment-gateway
 Quikipay payment gateway for woocommerce
