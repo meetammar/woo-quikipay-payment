@@ -1,0 +1,11 @@
+label[for='payment_method_quikipay_payment'] {
+  display: inline-block !important;
+}
+
+label[for='payment_method_quikipay_payment'] img {
+  width: 100%;
+  max-height: 100% !important;
+  float: right !important;
+  margin-top: 20px !important;
+  max-width: 100% !important;
+}
